@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "GHODictionary",
-        "repositoryURL": "https://github.com/gabriel/GHODictionary",
+        "repositoryURL": "https://github.com/MickyMikeH/GHODictionary.git",
         "state": {
           "branch": null,
-          "revision": "a67b9df6dfc6e6af3910d104fd9900e15dc15de9",
-          "version": "1.2.0"
+          "revision": "f24e9405b542ec0a16038a76013a8946a8537b2e",
+          "version": "1.0.0"
         }
       }
     ]

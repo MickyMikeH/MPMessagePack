@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "MPMessagePack",
     platforms: [
-        .iOS(.v8), .tvOS(.v10), .macOS(.v10_10)
+        .iOS(.v12), .tvOS(.v10), .macOS(.v10_10)
     ],
     products: [
         .library(
@@ -14,7 +14,7 @@ let package = Package(
             targets: ["MPMessagePack"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/gabriel/GHODictionary", from: "1.2.0")
+        .package(url: "https://github.com/MickyMikeH/GHODictionary.git", from: "1.0.0")
     ],
     targets: [
         .target(
